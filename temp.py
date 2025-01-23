@@ -1,4 +1,3 @@
-arr = [1, 2, 3, 4]
-arr += arr[::-1]
-print(arr)
-print(arr[5])
+a = 5
+b = 3
+print(a+=1 * 1+=b)
