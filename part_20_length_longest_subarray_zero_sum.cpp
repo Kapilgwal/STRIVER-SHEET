@@ -18,7 +18,7 @@ int longestSubarrayZero(vector<int> arr)
                 maxLen = max(maxLen, len);
             }
         }
-    }
+    } 
 
     return maxLen;
 }
