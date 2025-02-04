@@ -1,3 +1,6 @@
-a = 5
-b = 3
-print(a+=1 * 1+=b)
+
+a = 257
+b = 257
+print(a is b)
+print(id(a))
+print(id(b))
